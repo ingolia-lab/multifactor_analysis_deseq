@@ -1,0 +1,3 @@
+A list of links to information on using glms in R:
+
+http://blog.revolutionanalytics.com/2014/04/some-r-resources-for-glms.html
